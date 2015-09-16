@@ -1,0 +1,6 @@
+001-0782b00	T 001-0782b	buddhist/T-taisho/T20/07/T20-0782.png
+001-0782c00	T 001-0782c	buddhist/T-taisho/T20/07/T20-0782.png
+001-0783a00	T 001-0783a	buddhist/T-taisho/T20/07/T20-0783.png
+001-0783b00	T 001-0783b	buddhist/T-taisho/T20/07/T20-0783.png
+001-0783c00	T 001-0783c	buddhist/T-taisho/T20/07/T20-0783.png
+001-0784a00	T 001-0784a	buddhist/T-taisho/T20/07/T20-0784.png
