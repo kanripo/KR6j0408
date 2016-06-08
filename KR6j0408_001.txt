@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:52.982124
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:05
 #+TITLE: 一髻文殊師利童子陀羅尼念誦儀軌
 #+PROPERTY: CBETA_ID T20n1183
 #+PROPERTY: ID KR6j0408
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1183
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0408_T_000-0782a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0408_T_001-0782a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1183¶
-
- 一髻文殊師利童子陀羅尼念¶
+No. 1183¶
+一髻文殊師利童子陀羅尼念¶
 誦儀軌¶
 ¶
 
@@ -64,8 +63,7 @@ No.1183¶
 擇願宿曜吉祥之日。畫人受持八戒潔淨。於¶
 白緤上或絹素上。畫一髻文殊師利菩薩童¶
 子形。金色半跏坐千葉白蓮花上。左手執青¶
-蓮華。華上有如意摩尼寶珠。右手指掌向¶
-外垂下五指作滿願印。熙怡微笑。種種珠鬘¶
+蓮華。華上有如意摩尼寶珠。右手指掌向外垂下五指作滿願印。熙怡微笑。種種珠鬘¶
 頭冠瓔珞莊嚴其身。畫此像已。於一淨室塗¶
 拭方壇。從內向外三院布位。安置十七尊。具¶
 如如五字輪瑜伽法中所說。應以上妙香美¶
